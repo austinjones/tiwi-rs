@@ -1,0 +1,11 @@
+[package]
+name = "tiwi"
+version = "0.1.0"
+authors = ["Austin Jones"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0.33"
+chrono = "0.4.19"
+clap = "2.33.3"
+crossterm = "0.18.0"
