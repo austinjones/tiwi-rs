@@ -9,7 +9,6 @@ homepage = "https://github.com/austinjones/tiwi-rs"
 repository = "https://github.com/austinjones/tiwi-rs"
 license = "MIT"
 readme = "README.md"
-authors = ["Austin Jones"]
 edition = "2018"
 
 [dependencies]
