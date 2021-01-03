@@ -26,7 +26,7 @@ $ tiwi
 2020-10-15T19:57:28-04:00	--	launched the server
 ```
 
-With more input, tiwi will begin tracking a new event and print the previous event spawn:
+With more input, tiwi will begin tracking a new event and print the previous event span:
 ```
 $ tiwi
 2020-10-15T19:57:28-04:00	2m	launched the server
