@@ -1,6 +1,14 @@
 [package]
 name = "tiwi"
 version = "0.1.0"
+description = "a command-line event tracking tool"
+keywords = ["cli", "terminal", "tool"]
+authors = ["Austin Jones <implAustin@gmail.com>"]
+categories = ["command-line-utilities"]
+homepage = "https://github.com/austinjones/tiwi-rs"
+repository = "https://github.com/austinjones/tiwi-rs"
+license = "MIT"
+readme = "README.md"
 authors = ["Austin Jones"]
 edition = "2018"
 
